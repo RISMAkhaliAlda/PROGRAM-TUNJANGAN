@@ -7,21 +7,8 @@
  *
  * @author COR i5 GEN 4
  */
+
 public class Latihan30 {
-    /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package pkg23176020pbo5;
-
-/**
- *
- * @author Asus
- */
-
-//dicopy mulai dari sini(import...}) kebawah ya temen2//
-public class Latihan30 {
-
     public static final String ANSI_RESET = "\u001B[0m";
     public static final String ANSI_BLACK = "\u001B[30m";
     public static final String ANSI_RED = "\u001B[31m";
