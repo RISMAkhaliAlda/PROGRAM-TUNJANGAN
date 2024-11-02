@@ -7,9 +7,8 @@
  *
  * @author COR i5 GEN 4
  */
-import java.util.Scanner;
+
 public class programTunjangan {
-  
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
